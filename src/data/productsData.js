@@ -77,19 +77,19 @@ export const products = [
     id: 'Havells Gracia FAB Alkaline Water Purifier',
     name: 'Havells Gracia FAB Alkaline Water Purifier',
     tagline: 'RO+UV+Alkaline, Hot, Warm & Ambient Water, Copper+Zinc+Minerals', // This new field matches your example
-    image: '/assets/productimages/Havells Gracia FAB Alkaline Water Purifier (Black), RO+UV+Alkaline, Hot, Warm & Ambient Water, Copper+Zinc+Minerals, 8 Stage Purification, 6.5L SS Tank.jpg', // Make sure you have this image 
+    image: '/assets/productimages/havellesgra.jpg', // Make sure you have this image 
   },
   {
     id: 'AO Smith Z5 Pro',
     name: 'AO Smith Z5 Pro',
     tagline: 'Alkaline Water Purifier With CFM+SCMT', // This new field matches your example
-    image: '/assets/productimages/AO Smith Z5 Pro RO Alkaline Water Purifier With CFM+SCMT  RO Purifier With Advanced 8-stage Purification.jpg', // Make sure you have this image 
+    image: '/assets/productimages/aoz5.jpg', // Make sure you have this image 
   },
   {
     id: 'AO Smith Z9 Pro Black',
     name: 'AO Smith Z9 Pro Black',
     tagline: 'Instant Hot and Ambient RO+SCMT+Copper+Alkaline+Mintech', // This new field matches your example
-    image: '/assets/productimages/AO Smith Z9 Pro Black Instant Hot and Ambient RO+SCMT+Copper+Alkaline+Mintech.jpg', // Make sure you have this image 
+    image: '/assets/productimages/aoz9.jpg', // Make sure you have this image 
   },
   {
     id: 'Aiqua',
