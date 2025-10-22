@@ -29,7 +29,7 @@ export const products = [
     id: 'Pureit Copper Ro ',
     name: 'Pureit Copper Ro ',
     tagline: 'RO+UV+MF+Copper+Mineral 7 Stage Purification 8L Capacity', // This new field matches your example
-    image: '/assets/productimages/Pureit RO+UV+MF+Copper+Mineral 7 Stage Purification  8L Capacity.jpg', // Make sure you have this image 
+    image: '/assets/productimages/PureitCopperRo.jpg', 
   },
   {
     id: 'kent-excel-plus',
