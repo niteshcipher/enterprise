@@ -41,7 +41,7 @@ export const products = [
     id: 'Livpure Allura Premia',
     name: 'Livpure Allura Premia',
     tagline: 'RO+UV+UF+Copper+Alk+Mineraliser', // This new field matches your example
-    image: '/assets/productimages/Livpure Allura Premia Water Purifier 2.5 Year No Service Cost- Filters Included  10 Stage Advanced Purification RO+UV+UF+Copper+Alk+Mineraliser.jpg', // Make sure you have this image 
+    image: '/assets/productimages/LivpureAlluraPremia.jpg', // Make sure you have this image 
   },
   {
     id: 'Livpure GLO PRO++',
