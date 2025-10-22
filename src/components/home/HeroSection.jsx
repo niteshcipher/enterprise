@@ -13,7 +13,7 @@ const slideImages = [
     alt: 'Showcase of the latest water purifiers'
   },
   {
-    src: 'public/assets/images/pureit.jpg',
+    src: '/assets/images/pureit.jpg',
     alt: 'A happy family enjoying pure water'
   }
 ];
