@@ -179,13 +179,13 @@ export const products = [
     id: 'Omega pro+ (black)',
     name: 'Omega pro (black)',
     tagline: 'RO+UV+UF+TDS ', 
-    image: '/assets/productimages/omega pro+ gold.jpg', 
+    image: '/assets/productimages/omgold.jpg', 
   },
   {
     id: 'Omega Pro+ (white)',
     name: 'Omega Pro+ (white)',
     tagline: 'RO+UV+UF+TDS ', 
-    image: '/assets/productimages/omega pro+.jpg', 
+    image: '/assets/productimages/omwhite.jpg', 
   },
   {
     id: 'Starlink (purple)',
