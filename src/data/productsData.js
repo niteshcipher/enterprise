@@ -47,7 +47,7 @@ export const products = [
     id: 'Livpure GLO PRO++',
     name: 'Livpure GLO PRO++',
     tagline: 'RO+UV+UF+ 7L +2yrW', // This new field matches your example
-    image: '/assets/productimages/Livpure GLO PRO++ RO+UV+UF Free Service For 2 Years  Filters Included 7 L Storage  Suitable for Borewell, Tanker, Municipal Water 2 Year Warranty Black.jpg', // Make sure you have this image 
+    image: '/assets/productimages/livpureglo.jpg', // Make sure you have this image 
   },
   {
     id: 'Aquaguard Blaze',
@@ -59,19 +59,19 @@ export const products = [
     id: 'Aquaguard Sure Delight NXT',
     name: 'Aquaguard Sure Delight NXT',
     tagline: 'RO+UV Water Purifier', // This new field matches your example
-    image: '/assets/productimages/Aquaguard Sure Delight NXT RO+UV Water Purifier.jpg', // Make sure you have this image 
+    image: '/assets/productimages/aquaguarddelight.jpg', // Make sure you have this image 
   },
   {
-    id: 'Havells AQUAS Water Purifier',
-    name: 'Havells AQUAS Water Purifier',
+    id: 'Havells AQUAS ',
+    name: 'Havells AQUAS ',
     tagline: ' RO+UF, Copper+Zinc+Minerals 7L', // This new field matches your example
-    image: '/assets/productimages/Havells AQUAS Water Purifier (White and Blue), RO+UF, Copper+Zinc+Minerals, 5 stage Purification, 7L Tank, Suitable for Borewell, Tanker & Municipal Wate.jpg', // Make sure you have this image 
+    image: '/assets/productimages/havelsaquas.jpg', // Make sure you have this image 
   },
   {
     id: 'Havells FAB Alkaline Water Purifier',
     name: 'Havells FAB Alkaline Water Purifier',
     tagline: 'RO+UV+Revitalizer (Copper) Powerful 8 stage Purification', // This new field matches your example
-    image: '/assets/productimages/Havells FAB Alkaline Water Purifier  RO+UV+Revitalizer (Copper) Powerful 8 stage Purification 2 Year Free Service Smart Alerts  Auto Energy Saver.jpg', // Make sure you have this image 
+    image: '/assets/productimages/havellsfab.jpg', // Make sure you have this image 
   },
   {
     id: 'Havells Gracia FAB Alkaline Water Purifier',
