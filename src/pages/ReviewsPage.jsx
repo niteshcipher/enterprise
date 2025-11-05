@@ -11,7 +11,7 @@ const ReviewsPage = () => {
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-4xl font-extrabold text-gray-800">Customer Testimonials</h1>
           <p className="mt-2 text-lg text-gray-600">
-            See what our satisfied customers in Jalandhar have to say about us.
+            See what our satisfied customers in Delhi have to say about us.
           </p>
         </div>
       </section>
